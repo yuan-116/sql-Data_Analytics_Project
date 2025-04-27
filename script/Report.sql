@@ -123,7 +123,7 @@ Highlights:
 		- average monthly revenue
 ================================================
 */
-
+CREATE VIEW gold.report_product AS 
 -- 1) Base query: Retrieves core columns from fact_sales and dim_products
 WITH base_query AS(
 	SELECT
