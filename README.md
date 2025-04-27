@@ -1,4 +1,4 @@
-# sql-Data_Analytics_Project
+# SQL-Data_Analytics_Project
 
 # 📊 Sales Database Analysis and Reporting
 
