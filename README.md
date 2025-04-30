@@ -2,7 +2,8 @@
 
 # 📊 Sales Database Analysis and Reporting
 
-This repository contains SQL scripts for performing exploratory data analysis (EDA), business data analysis, and generating reporting views based on a sales database I developed in a previous project.
+This repository contains SQL scripts for performing exploratory data analysis (EDA), business data analysis, and generating reporting views based on a sales database I developed in a previous project. 🔗 [Link](https://github.com/yuan-116/sql-data-warehouse-project)
+
 The scripts are organized into three main parts, each serving a different analytical or reporting purpose.
 
 ---
