@@ -1,6 +1,6 @@
 # SQL-Data_Analytics_Project
 
-# 📊 Sales Database Analysis and Reporting
+#  Sales Database Analysis and Reporting
 
 This repository contains SQL scripts for performing exploratory data analysis (EDA), business data analysis, and generating reporting views based on a sales database I developed in a previous project. 🔗 [Link](https://github.com/yuan-116/sql-data-warehouse-project)
 
@@ -58,7 +58,7 @@ Create reusable reporting views to consolidate customer and product performance 
 
 ---
 
-## 📈 Tools & Technologies
+## Tools & Technologies
 
 - SQL Server 
 - Analytical SQL (Aggregations, Window Functions, CTEs)
@@ -66,7 +66,7 @@ Create reusable reporting views to consolidate customer and product performance 
 
 ---
 
-## 🔖 About This Project
+## About This Project
 
 This project was developed to strengthen hands-on SQL skills in data exploration, trend analysis, and reporting view generation within a business context.  
 It simulates a real-world data analytics workflow — from understanding raw datasets to delivering structured insights and ready-to-use reporting tables.
