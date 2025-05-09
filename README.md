@@ -49,7 +49,7 @@ Create reusable reporting views to consolidate customer and product performance 
 **Reports Created:**
 - **Customer Report (`gold.report_customers`)**
   - Customer segmentation (VIP, Regular, New)
-  - Customer metrics（KPIs): orders, sales, quantities, lifespan, recency, AOV, monthly spend
+  - Customer metrics: orders, sales, quantities, lifespan, recency, AOV, monthly spend
 - **Product Report (`gold.report_products`)**
   - Product segmentation (High-Performer, Mid-Performer, Low-Performer)
   - Product metrics（KPIs): orders, sales, customers, lifespan, recency, AOR, monthly revenue
